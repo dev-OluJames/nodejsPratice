@@ -1,0 +1,20 @@
+{
+  "name": "pratice",
+  "version": "1.0.0",
+  "description": "this is for train",
+  "main": "rectangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-OluJames/nodejsPratice.git"
+  },
+  "author": "james",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-OluJames/nodejsPratice/issues"
+  },
+  "homepage": "https://github.com/dev-OluJames/nodejsPratice#readme"
+}
